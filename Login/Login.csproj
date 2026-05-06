@@ -9,10 +9,10 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <None Remove="Images\artworks-Tb9uxCkxXFhJVhCO-zpIQOg-t240x240.jpg" />
-      <Resource Include="Images\artworks-Tb9uxCkxXFhJVhCO-zpIQOg-t240x240.jpg" />
-      <None Remove="Images\rushhbecca.jpg" />
-      <Resource Include="Images\rushhbecca.jpg" />
+        <None Remove="Images\artworks-Tb9uxCkxXFhJVhCO-zpIQOg-t240x240.jpg"/>
+        <Resource Include="Images\artworks-Tb9uxCkxXFhJVhCO-zpIQOg-t240x240.jpg"/>
+        <None Remove="Images\rushhbecca.jpg"/>
+        <Resource Include="Images\rushhbecca.jpg"/>
     </ItemGroup>
 
 </Project>

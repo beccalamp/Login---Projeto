@@ -18,4 +18,4 @@ public partial class Cadastro : Window
     {
         throw new NotImplementedException();
     }
-} 
+}

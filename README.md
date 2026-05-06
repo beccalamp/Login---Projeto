@@ -1,3 +1,3 @@
 # Login
 
-Aula de introdução a programção com interface gráficagit stat
+Aula de introdução a programação com interface gráfica

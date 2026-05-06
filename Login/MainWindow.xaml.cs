@@ -1,12 +1,11 @@
-﻿using System.Diagnostics.Eventing.Reader;
-using System.Windows;
+﻿using System.Windows;
 
 namespace Login;
 
 public partial class MainWindow : Window
 {
     // Inicio main
-    const string USUARIO_PADRAO = "Looksmaxing";
+    private const string USUARIO_PADRAO = "Looksmaxing";
     private const string SENHA_PADRAO = "2525";
 
     public MainWindow()

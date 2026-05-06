@@ -3,7 +3,6 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:local="clr-namespace:Login"
         mc:Ignorable="d"
         Title="Cadastro" Height="450" Width="800">
     <Grid Background="Lavender">
@@ -14,18 +13,18 @@
                 FontSize="32"
                 TextAlignment="Center"
                 Margin="0 0 0 20" />
-            
+
             <!-- TextBlock/ TextBox / Button -->
-            <TextBlock Text="Nome de Usuário"/>
+            <TextBlock Text="Nome de Usuário" />
             <TextBox Height="25" FontSize="16" x:Name="tbUsuario" />
-            
-            <TextBlock Text="Senha"/>
-            <TextBox Height="25" FontSize="16" x:Name="tbSenha"/>
-            
+
+            <TextBlock Text="Senha" />
+            <TextBox Height="25" FontSize="16" x:Name="tbSenha" />
+
             <Button Background="LightSteelBlue" Content="Login" Click="BotaoLogin" />
             <Button Background="LightSteelBlue" Content="Cadastre-se" Click="BotaoCadastro" />
-            
+
         </StackPanel>
-        
+
     </Grid>
 </Window>
